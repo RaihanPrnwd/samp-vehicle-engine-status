@@ -1,4 +1,6 @@
 # Vehicle Engine Status Include for SA-MP
+[![License: Freeware Creditware](https://img.shields.io/badge/license-Freeware%20Creditware-brightgreen.svg?style=flat-square)]()
+[![Author](https://img.shields.io/badge/Author-Raihan%20Purnawadi-blue.svg?style=flat-square)](https://github.com/RaihanPrnwd)
 
 ## Deskripsi Singkat (Bahasa Indonesia)
 
